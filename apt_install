@@ -1,0 +1,10 @@
+sudo apt install vlc \
+sublime-text \
+keepass2 \
+doublecmd-qt \
+filezilla \
+git-cola \
+thunderbird \
+hplip \
+nodejs \
+npm
