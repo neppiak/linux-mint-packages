@@ -1,0 +1,12 @@
+Double commander
+FileZilla
+Git-cola
+HPLip
+KeePass
+NodeJS
+NPM
+Sublime
+Thunderbird
+Visual studio code - https://code.visualstudio.com/docs/?dv=linux64_deb
+Vivaldi browser - https://vivaldi.com/download/
+VLC
